@@ -1,0 +1,13 @@
+echo "# react-random-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Muhammad-Sabbir/react-random-project.git
+git push -u origin main
+
+
+
+git add --all
+git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 14. Setting Map Position With Geolocation"
+git push -u origin main
